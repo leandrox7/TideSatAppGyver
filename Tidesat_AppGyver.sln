@@ -5,6 +5,8 @@ VisualStudioVersion = 25.0.1705.4
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tidesat_AppGyverAPI", "Tidesat_AppGyverAPI\Tidesat_AppGyverAPI.csproj", "{B94ABEE1-E007-4C88-866B-DB15F5750C24}"
 EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{5C5F1652-A94B-46F8-B93E-5C95F7463E5B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{B94ABEE1-E007-4C88-866B-DB15F5750C24}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B94ABEE1-E007-4C88-866B-DB15F5750C24}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B94ABEE1-E007-4C88-866B-DB15F5750C24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C5F1652-A94B-46F8-B93E-5C95F7463E5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C5F1652-A94B-46F8-B93E-5C95F7463E5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C5F1652-A94B-46F8-B93E-5C95F7463E5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C5F1652-A94B-46F8-B93E-5C95F7463E5B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

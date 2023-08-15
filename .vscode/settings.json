@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "Tidesat_AppGyverAPI/bin/Release/net6.0/publish",
+    "appService.defaultWebAppToDeploy": "/subscriptions/fd82f79a-ef95-4dc8-9e03-de205d2efffc/resourceGroups/Tidesat/providers/Microsoft.Web/sites/Tidesat"
+}

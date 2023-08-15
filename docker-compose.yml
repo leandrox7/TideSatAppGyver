@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  tidesat_appgyverapi:
+    image: leandrox7/tidesatappgyverapi
+    build:
+      context: .
+      dockerfile: Tidesat_AppGyverAPI/Dockerfile
